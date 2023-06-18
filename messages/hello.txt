@@ -1,0 +1,14 @@
+INSTRUKCJA
+
+Podczas zadania na ekranie będą wyświetlać się 2 rodzaje figur: KÓŁKO oraz KWADRAT.
+
+1. Twoim zadaniem będzie reagowanie na KÓŁKO poprzez naciśnięcie klawisza strzałki w prawo oraz powstrzymanie się od reakcji (naciśnięcia strzałki) na KWADRAT.
+2. Staraj się nie rozpraszać wzroku. Przed każdym z bodźców na środku ekranu będzie prezentowany punkt „+”, który pomoże Ci skupić się na wykonywaniu zadania.
+3. Postaraj się odpowiadać poprawnie i jak najszybciej, ponieważ mierzony będzie Twój czas reakcji.
+4. Badanie składa się z części treningowej oraz eksperymentalnej.
+5. Wyniki części treningowej nie są brane pod uwagę.
+6. W części eksperymentalnej są dodatkowo przewidziane 3 przerwy na odpoczynek. Długość przerwy jest zależna od Ciebie. Przerwę zakończysz poprzez wciśnięcie klawisza spacji.
+7. Po przeczytaniu instrukcji naciśnij klawisz spacji, aby przejść do treningu.
+
+POWODZENIA!
+

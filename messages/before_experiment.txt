@@ -1,0 +1,4 @@
+Teraz zacznie się część eksperymentalna.
+Pamiętaj, Twoim zadaniem jest reagowanie PRAWĄ STRZAŁKĄ na KÓŁKO oraz powstrzymanie się od reakcji (kliknięcia strzałki) na widok KWADRATU.
+
+Naciśnij spację, aby rozpocząć.
